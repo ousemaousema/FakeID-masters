@@ -1,2 +1,2 @@
-# FakeID-masters
-Fake Algerian,France and Tunisia Citizenship Generator 🇩🇿
+# FakeID
+Fake Algerian Citizenship Generator  🇩🇿
